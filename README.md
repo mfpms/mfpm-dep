@@ -1,2 +1,2 @@
-# mufdep
-The dependency manager of mufpkg
+# mfdp
+The dependency manager of mfpkg
