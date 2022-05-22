@@ -1,2 +1,2 @@
 # mfdp
-The dependency manager of mfpkg
+The dependency manager of mfpm
