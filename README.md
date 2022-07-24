@@ -1,2 +1,2 @@
-# mfpm-dep
+# mfdep
 The dependency manager of mfpm
